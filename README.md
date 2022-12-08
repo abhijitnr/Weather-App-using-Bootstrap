@@ -2,7 +2,8 @@
 
 ## ABOUT
 
-This is a weather app built using HTML, CSS, JavaScript, RapidAPI, and Bootstrap. In this app you can search for your favorite city or place to see the weather of that place.
+- This is a weather app built by [ABHIJIT BISWAS](https://github.com/abhijitnr) using HTML, CSS, JavaScript, RapidAPI, and Bootstrap.
+- In this app you can search for your favorite city or place to see the weather of that place.
 
 ## Tech-Stack used
 
@@ -13,6 +14,8 @@ This is a weather app built using HTML, CSS, JavaScript, RapidAPI, and Bootstrap
 - Bootstrap
 
 ## Live link of MY WEATHER APP
+
+- [MY WEATHER APP](https://abhijit-biswas-weather-app.netlify.app/)
 
 ## Overview of the MY WEATHER APP
 
